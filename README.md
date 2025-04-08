@@ -1,6 +1,6 @@
 # Online e Offline Todos
 
-<img src="info/capa.jpg"/>
+<img src="capa/capa.jpg"/>
 
 # Sobre o projeto
 > O projeto busca combinar ferramentas populares do Android e demonstrar as melhores práticas de desenvolvimento, utilizando uma tecnologia atualizada, como Compose, Kotlin Flow e Koin.
