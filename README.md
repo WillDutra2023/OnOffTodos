@@ -1,4 +1,4 @@
-# Mercado BitC
+# Online e Offline Todos
 
 <img src="info/capa.png"/>
 
