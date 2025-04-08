@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OnOffTodos</string>
+    <string name="loading_data">Não foi possivel carregar os dados</string>
+</resources>
